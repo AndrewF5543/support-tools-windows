@@ -61,3 +61,9 @@ $includeBaseDirectory = $false
 
 # Clean up $diagnosticsDir
 Remove-Item "$fullpath" -recurse
+
+
+
+
+
+DERP
